@@ -1,0 +1,4 @@
+.env
+
+# General node_modules (if in root)
+node_modules/
